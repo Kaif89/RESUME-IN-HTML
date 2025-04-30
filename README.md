@@ -1,5 +1,5 @@
-﻿# RESUME-IN-HTML
-<h2>HTML Resume</h2>
+
+<h1>HTML Resume</h1>
 This project is a personal resume built entirely with HTML. It showcases my skills, education, work experience, and contact information in a clean, responsive, and accessible format. This project serves as both a digital CV and a demonstration of my front-end development abilities using semantic HTML structure and good coding practices.
 
 Features:
